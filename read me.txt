@@ -1,0 +1,12 @@
+Warning lond music!!
+
+If you want to play the game please you need to have 
+
+- Python
+https://www.python.org/downloads/  (download this first)
+- Pygame
+https://www.pygame.org/download.shtml (test pygame from this)
+
+python -m pip install -U pygame==2.5.2 --user  (this one use in command prompt, do this second)
+
+To play to game we have the link to all the downloads you need up there
